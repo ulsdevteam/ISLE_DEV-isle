@@ -1,0 +1,2 @@
+certFile = "/certs/ISLE_DEV.localdomain.pem"
+keyFile = "/certs/ISLE_DEV.localdomain.key"
