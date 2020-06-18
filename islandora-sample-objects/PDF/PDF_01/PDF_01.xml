@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3" 
+  xmlns="http://www.loc.gov/mods/v3" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>A search for antigens common to fetal and tumor cells</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Bonn, Joseph</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Author</roleTerm>
+    </role>
+  </name>
+  <name type="corporate">
+    <namePart>Biology</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Department</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateIssued encoding="w3cdtf" keyDate="yes">1975</dateIssued>
+  </originInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-3">eng</languageTerm>
+  </language>
+
+  <identifier type="filename">PDF_01.pdf</identifier>
+
+</mods>

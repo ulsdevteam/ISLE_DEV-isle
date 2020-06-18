@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3" 
+  xmlns="http://www.loc.gov/mods/v3" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Gulielmensian 1865</title>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>Williams College</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Source</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre>yearbook</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="text">Williamstown, MA</placeTerm>
+    </place>
+    <dateIssued encoding="w3cdtf" keyDate="yes">1864</dateIssued>
+    <publisher>C.E. Bigelow</publisher>
+  </originInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-3">eng</languageTerm>
+  </language>
+
+  <abstract>Williams College yearbook for the class of 1965</abstract>
+  <subject>
+    <topic>yearbooks</topic>
+  </subject>
+
+  <identifier type="collection">Book_03</identifier>
+
+</mods>

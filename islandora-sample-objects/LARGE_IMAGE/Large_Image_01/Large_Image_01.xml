@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:mods="http://www.loc.gov/mods/v3" 
+  xmlns="http://www.loc.gov/mods/v3" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Cox 18</title>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Fox, Bill</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">Photographer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre>35mm Slide</genre>
+  <physicalDescription>
+    <reformattingQuality>preservation</reformattingQuality>
+    <internetMediaType>tiff</internetMediaType>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <abstract>Sand waves. Image is 200m horizontal.</abstract>
+  <subject>
+    <topic>Sedimentology</topic>
+    <topic>Sand Waves</topic>
+    <topic>Dunes</topic>
+    <geographic>North America</geographic>
+    <geographic>Saskatchewan</geographic>
+    <geographic>William River</geographic>
+  </subject>
+  <identifier type="doi">Large_Image_01</identifier>
+  <accessCondition type="restrictions on access">Contact Archives and Special Collections at archives@williams.edu</accessCondition>
+  <recordInfo>
+    <recordContentSource>Anna Leonard</recordContentSource>
+    <languageOfCataloging>
+      <languageTerm type="code" authority="iso639-3">eng</languageTerm>
+    </languageOfCataloging>
+    <descriptionStandard>DACS</descriptionStandard>
+  </recordInfo>
+</mods>
