@@ -253,9 +253,9 @@
 
 $databases['default']['default'] = array(
   'driver' => 'mysql',
-  'database' => '',
-  'username' => '',
-  'password' => '',
+  'database' => 'UPitt_db',
+  'username' => 'UPitt_db_user',
+  'password' => 'Y7UBb7hMQpMeNGkMznrh8zKFTx',
   'host' => 'mysql',
   'prefix' => '',
   'charset' => 'utf8mb4',
@@ -292,7 +292,7 @@ $update_free_access = FALSE;
  *   $drupal_hash_salt = file_get_contents('/home/example/salt.txt');
  *
  * # ISLE Configuration - Replace the value below with the value of DRUPAL_HASH_SALT from the local.env */
-$drupal_hash_salt = '';
+$drupal_hash_salt = 'WsKWfyEWMesvANm7ybg9v9xwm5ev3w6XTqkwUHvBSdXqL';
 
 /**
  * Base URL (optional).
