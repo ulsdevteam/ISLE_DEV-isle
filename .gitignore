@@ -15,7 +15,11 @@ temp
 .idea
 .htpasswd
 tests/TestNarrowSuite.php
-
+config/proxy/ssl-certs/ISLEDEV.islandora-dev-01.library.pitt.edu.key
+config/proxy/ssl-certs/ISLEDEV.islandora-dev-01.library.pitt.edu.key
+scripts/proxy/ssl-certs/local.sh
+config/apache/settings_php/settings.local.php
+config/proxy/traefik.local.toml
 
 # =========================
 # Packages
@@ -70,3 +74,4 @@ passwords.md
 .vscode
 config/proxy/acme.json
 .env
+local.env
